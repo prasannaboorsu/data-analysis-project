@@ -1,0 +1,485 @@
+,Unnamed: 0,Title,City,Price(Rs),Tax+Charges(Rs),Total Price/night(Rs),Rating,Review,No of Reviews,Distance from Centre(km)
+0,0,Great Spacious Villa with Courtyard Gardens,Hyderabad,10800,1944,12744,7.1,Good ,127,3.7
+1,1,3BHK Budget Apartment in Hyderabad Near Charminar,Hyderabad,4800,576,5376,9.9,Exceptional ,9,7.3
+2,2,KPHB Phase 15 New Stunning 15 BHKs Full Building with Terrace & Parking,Hyderabad,4898,588,5486,8.2,Very good ,238,7.2
+3,3,Hotel Lake View Airport zone,Hyderabad,1596,192,1788,9.0,Superb ,32,18.3
+4,4,Hyderabad Budget Apartment - 2BHK & 1BHK,Hyderabad,3999,480,4479,8.0,Very good ,17,4.5
+5,5,FabHotel Rooms 27,Hyderabad,1617,194,1811,8.9,Fabulous ,15,6.5
+6,6,VOILA AT NEST,Hyderabad,1800,216,2016,7.5,Good ,638,11.4
+7,7,"Casa Hotel & Suites, Gachibowli, Hyderabad",Hyderabad,10400,1872,12272,7.0,Good ,1043,11.6
+8,8,Hotel Axis Holiday's - Banjara Hills,Hyderabad,1488,178,1666,8.4,Very good ,634,1.7
+9,9,Bridge Serviced Apartment in Banjara Hills,Hyderabad,15000,2700,17700,8.8,Fabulous ,23,1.8
+10,10,HOTEL PLAZA ROOMS,Hyderabad,1412,169,1581,8.0,Very good ,32,3.4
+11,11,The Golkonda Hotel,Hyderabad,6790,815,7605,8.2,Very good ,1146,2.1
+12,12,Novotel Hyderabad Airport,Hyderabad,13949,2511,16460,8.6,Fabulous ,878,19.4
+13,13,The Westin Hyderabad Mindspace,Hyderabad,11500,2070,13570,7.6,Good ,1071,6.7
+14,14,Western Suites HiTech City,Hyderabad,4176,501,4677,6.8,Good ,168,6.3
+15,15,Olive Service Apartments Hitech City,Hyderabad,4390,527,4917,8.1,Very good ,1133,6.4
+16,16,Taj Krishna,Hyderabad,9500,1710,11210,7.9,Good ,1299,1.2
+17,17,Courtyard by Marriott Hyderabad,Hyderabad,8750,1575,10325,7.3,Good ,496,5.3
+18,18,FabHotel Royal Residency Lakdikapul,Hyderabad,1876,225,2101,8.4,Very good ,703,3.0
+19,19,"Itsy By Treebo - Arastu Plaza - 9 Km Away From Rajiv Gandhi International Cricket Stadium, Hyderabad",Hyderabad,1774,213,1987,8.1,Very good ,1434,4.0
+20,20,Taj Deccan,Hyderabad,10490,1888,12378,8.6,Fabulous ,683,1.3
+21,21,Hyatt Place Hyderabad Banjara Hills,Hyderabad,10999,1980,12979,8.8,Fabulous ,468,1.0
+22,22,Best Western Ashoka,Hyderabad,4680,562,5242,9.0,Superb ,5,3.2
+23,23,Hyderabad Marriott Hotel & Convention Centre,Hyderabad,9000,1620,10620,7.6,Good ,223,5.3
+24,24,"ITC Kohenur, a Luxury Collection Hotel, Hyderabad",Hyderabad,12350,2223,14573,7.3,Good ,314,5.9
+25,25,Oakwood Residence Kapil Hyderabad,Hyderabad,7250,870,8120,8.6,Fabulous ,670,10.6
+26,26,FabExpress Broholic Suites,Hyderabad,1456,175,1631,9.1,Superb ,1427,9.5
+27,27,FabHotel Mint Park,Hyderabad,1848,222,2070,8.2,Very good ,516,71.6
+28,28,New Hotel Suhail,Hyderabad,2321,279,2600,7.5,Good ,6,5.3
+29,29,FabHotel Mansingh Begum Bazar Road,Hyderabad,2273,273,2546,8.2,Very good ,457,5.7
+30,30,Sheraton Hyderabad Hotel,Hyderabad,10000,1800,11800,8.5,Very good ,490,10.7
+31,31,Trident Hyderabad,Hyderabad,12250,2205,14455,7.1,Good ,192,7.3
+32,32,FabHotel Pride Inn,Hyderabad,2159,259,2418,7.5,Good ,60,6.7
+33,33,Collection O Hotel Golden Gate,Hyderabad,1362,197,1559,8.3,Very good ,338,4.7
+34,34,FabHotel Mallikarjun Residency,Hyderabad,1477,177,1654,7.7,Good ,974,5.2
+35,35,Treebo Trend Blue Dawn Gachibowli,Hyderabad,2183,262,2445,8.9,Fabulous ,14,9.5
+36,36,The Purple Leaf Hotels,Hyderabad,3200,384,3584,8.4,Very good ,24,8.1
+37,37,La Hometel Hotel - HITECH City Hyderabad,Hyderabad,2309,277,2586,7.1,Good ,133,7.1
+38,38,Marriott Executive Apartments Hyderabad,Hyderabad,10500,1890,12390,7.8,Good ,859,8.9
+39,39,Hyatt Hyderabad Gachibowli,Hyderabad,8550,1539,10089,7.6,Good ,49,10.2
+40,40,Treebo Trend The Rise,Hyderabad,3043,365,3408,6.9,Good ,201,6.2
+41,41,Harvey's Hotels (Gachibowli),Hyderabad,3800,456,4256,8.3,Very good ,190,11.6
+42,42,"Treebo Tryst Metropolis - 6 Km Away From Rajiv Gandhi International Cricket Stadium, Hyderabad",Hyderabad,3507,421,3928,7.4,Good ,39,7.0
+43,43,"Mercure Hyderabad KCP Banjara Hills, An Accor Hotel",Hyderabad,10000,1800,11800,7.8,Good ,294,2.0
+44,44,Bloom Hotel - Cyber Towers,Hyderabad,13000,2340,15340,7.2,Good ,1753,8.1
+45,45,Itsy By Treebo - 99 Inn Hitech City,Hyderabad,2194,263,2457,6.8,Good ,123,7.5
+46,46,Super OYO Townhouse RCC Majestic 397 LB Nagar,Hyderabad,1943,259,2202,7.6,Good ,39,12.2
+47,47,Super OYO Collection O Halcyon Madhapur,Hyderabad,2120,271,2391,8.5,Very good ,212,6.3
+48,48,Hotel Akoya - HITECH City Hyderabad,Hyderabad,4905,589,5494,5.9,Good ,24,6.8
+49,49,ibis Hyderabad Hitec City - An Accor Brand,Hyderabad,6999,840,7839,8.2,Very good ,42,7.2
+50,50,FabHotel Aamantran,Hyderabad,2217,266,2483,8.1,Very good ,918,6.3
+51,51,FabHotel W Grand Suites,Hyderabad,1364,164,1528,7.4,Good ,183,6.6
+52,52,FabExpress Broholic Suites I,Hyderabad,1835,220,2055,6.5,Good ,17,12.8
+53,53,EKASILA GRAND HOTEL,Hyderabad,1458,175,1633,7.9,Good ,2692,13.4
+54,54,Treebo Trend Virat Residency,Hyderabad,2712,325,3037,7.2,Good ,27,12.0
+55,55,Le Meridien Hyderabad,Hyderabad,12000,2160,14160,7.6,Good ,709,8.7
+56,56,Avana- A Boutique Hotel,Hyderabad,4050,486,4536,7.9,Good ,996,11.6
+57,57,FabHotel Double Tree,Hyderabad,2563,308,2871,8.5,Very good ,132,18.1
+58,58,Radisson Blu Plaza Hotel Hyderabad Banjara Hills,Hyderabad,15000,2700,17700,8.3,Very good ,4,0.7
+59,59,OYO Townhouse 196 De Alphabet,Hyderabad,1342,178,1520,6.9,Good ,17,3.4
+60,60,Nectar Living - Iris,Hyderabad,1800,216,2016,7.8,Good ,89,6.9
+61,61,"ITC Kakatiya, a Luxury Collection Hotel, Hyderabad",Hyderabad,13490,2428,15918,7.2,Good ,30,2.7
+62,62,Treebo Trend Address Inn,Hyderabad,3541,425,3966,7.2,Good ,68,1.3
+63,63,FabHotel Golden Hitech,Hyderabad,1932,232,2164,7.5,Good ,35,6.5
+64,64,FabExpress Kpotel,Hyderabad,1782,214,1996,7.5,Good ,82,6.1
+65,65,FabExpress Airport Stay Inn,Hyderabad,1242,149,1391,7.5,Good ,29,1.9
+66,66,FabExpress Golden Gate,Hyderabad,1818,218,2036,7.6,Good ,206,6.5
+67,67,FabHotel Fortune Grand,Hyderabad,2273,273,2546,7.1,Good ,144,2.8
+68,68,INR Suites Madhapur,Hyderabad,2849,342,3191,5.7,Good ,20,6.4
+69,69,Treebo Trend Royal Signature,Hyderabad,3791,455,4246,6.8,Good ,213,6.9
+70,70,Treebo Trend J A Royal Suites Manikonda,Hyderabad,2575,309,2884,8.0,Very good ,5,6.6
+71,71,Treebo Trend Kruthika Inn,Hyderabad,3174,381,3555,7.5,Good ,209,9.5
+72,72,Dash Hotels - Affordable Luxury,Hyderabad,3360,403,3763,8.4,Very good ,1926,5.9
+73,73,FabHotel A&M,Hyderabad,2739,329,3068,7.0,Good ,120,1.1
+74,74,Capital O Hotel Saharsh Grand Near Shilparamam,Hyderabad,1636,230,1866,7.1,Good ,362,8.9
+75,75,Bloom Hotel - HITEC City,Hyderabad,6074,729,6803,6.6,Good ,524,6.8
+76,76,Treebo Trend Navya The Park,Hyderabad,2528,303,2831,8.8,Fabulous ,6,6.9
+77,77,The Landmark Banjara Hills - Hyderabad,Hyderabad,2400,288,2688,6.3,Good ,55,0.7
+78,78,"Vivanta Hyderabad, Begumpet",Hyderabad,10500,1890,12390,7.3,Good ,46,3.8
+79,79,Itsy By Treebo - Infinity Hitech City,Hyderabad,2651,318,2969,4.2,Good ,436,7.6
+80,80,FabExpress Deccan Heritage Abids,Hyderabad,2446,294,2740,7.7,Good ,246,5.3
+81,81,M Square Hotel,Hyderabad,2295,275,2570,5.3,Good ,46,8.1
+82,82,FabHotel Prime AM Suites,Hyderabad,4207,505,4712,6.9,Good ,36,6.2
+83,83,FabHotel L Grand,Hyderabad,1901,228,2129,6.9,Good ,120,7.0
+84,84,FabHotel Green Leaf,Hyderabad,1818,60,1878,6.9,Good ,133,10.3
+85,85,The Manohar Hyderabad,Hyderabad,4320,518,4838,2.8,Good ,21,4.8
+86,86,"Hotel Deccan Serai, HITEC CITY, HYDERABAD",Hyderabad,3919,470,4389,7.7,Good ,60,6.6
+87,87,"OYO Townhouse 710 Hotel Regal Near ISKON TEMPLE , ABIDS",Hyderabad,899,142,1041,7.5,Good ,202,5.1
+88,88,Townhouse 496 De Alphabet,Hyderabad,1424,188,1612,6.5,Good ,1393,9.5
+89,89,"Treebo Trend Arastu Grand - 8 Km Away From Rajiv Gandhi International Cricket Stadium, Hyderabad",Hyderabad,2929,352,3281,5.5,Good ,87,4.5
+90,90,Itsy By Treebo - Sunrise Grand,Hyderabad,2822,339,3161,7.0,Good ,127,9.5
+91,91,OYO Ritesh Grand,Hyderabad,584,96,680,5.6,Good ,5,17.5
+92,92,TheReefApartment,Hyderabad,2430,292,2722,9.0,Good ,13,17.2
+93,93,Hotel B plus L,Hyderabad,6749,810,7559,7.4,Superb ,40,8.5
+94,94,"Holiday Inn Express Hyderabad HITEC City, an IHG Hotel",Hyderabad,9700,1746,11446,7.1,Good ,71,7.7
+95,95,OYO Hotel Aroma Classic Near Nampally Railway station,Hyderabad,891,141,1032,7.6,Good ,150,5.6
+96,96,"Lemon Tree Hotel, Banjara Hills, Hyderabad",Hyderabad,7926,2362,10288,8.4,Good ,109,1.3
+97,97,Collection O Athidhi Hotel & Suites,Hyderabad,2927,385,3312,7.0,Very good ,175,11.6
+98,98,"Tourist Friendly Home -3BHK AC Near Birla Mandir, Hyderabad",Hyderabad,4799,576,5375,8.8,Good ,43,3.6
+99,99,Olive Service Apartments Gachibowli,Hyderabad,4490,539,5029,7.0,Fabulous ,19,7.6
+100,100,Treebo Trend De Alphabet Kondapur,Hyderabad,2611,313,2924,9.5,Good ,27,12.1
+101,101,"Treebo Trend Tee - 8 Km Away From Rajiv Gandhi International Cricket Stadium, Hyderabad",Hyderabad,2975,357,3332,6.8,Exceptional ,4,15.0
+102,102,Bloom Hotel - Gachibowli,Hyderabad,4950,594,5544,7.7,Good ,13,7.6
+103,103,ZIBE Hyderabad by GRT Hotels,Hyderabad,6300,882,7182,7.7,Good ,41,9.3
+104,104,Townhouse OAK De Alphabet Hotel Bolarum,Hyderabad,1780,231,2011,5.7,Good ,154,15.2
+105,105,Super OYO Townhouse OAK Hotel SSV Grand,Hyderabad,1601,226,1827,5.5,Good ,190,5.1
+106,106,Monday Hotels Hitec City,Hyderabad,4800,576,5376,6.3,Good ,2,8.8
+107,107,Prince Tower-4BHK Apartments,Hyderabad,4455,535,4990,7.4,Good ,15,7.3
+108,108,Hotel SSR GRAND,Hyderabad,2808,337,3145,5.0,Good ,14,15.8
+109,109,Hotel Pratz Inn,Hyderabad,2700,324,3024,6.3,Good ,31,9.5
+110,110,FabHotel Limestone Aura,Hyderabad,2273,273,2546,9.9,Good ,1859,2.6
+111,111,Capital O Sri Vinayaka Luxury Hotel,Hyderabad,1252,201,1453,8.5,Exceptional ,9,9.3
+112,112,Collection O J3 Royal Luxury Rooms,Hyderabad,1435,206,1641,8.0,Very good ,47,6.9
+113,113,Collection O 81309 Hamsa the Right choice,Hyderabad,1454,209,1663,6.8,Very good ,323,6.8
+114,114,Capital O Halcyon Inr Suites Madhapur,Hyderabad,2643,334,2977,7.1,Good ,95,6.4
+115,115,Townhouse 1065 Hotel S Continental Near Birla Mandir,Hyderabad,991,144,1135,8.8,Good ,78,6.2
+116,116,"Holiday Inn Express Hyderabad Banjara Hills, an IHG Hotel",Hyderabad,7019,842,7861,7.5,Fabulous ,51,1.7
+117,117,FabHotel Rooms 27,Hyderabad,1617,194,1811,7.4,Good ,192,6.5
+118,0,"The Hosteller Bangalore, Brigade Road",Bangalore,2793,335,3128,8.9,Fabulous ,154,1.1
+119,1,VOVO PREMIER HOTEL,Bangalore,2025,243,2268,8.6,Fabulous ,327,2.7
+120,2,Vera by Bisque Hebbal - Manyata Tech Park,Bangalore,2699,324,3023,8.7,Fabulous ,69,7.3
+121,3,Regenta Inn Indiranagar Bangalore,Bangalore,3146,378,3524,8.3,Very good ,1051,4.2
+122,4,Hotel Chetan International,Bangalore,1280,154,1434,6.9,Good ,767,2.6
+123,5,"ITC Windsor, a Luxury Collection Hotel, Bengaluru",Bangalore,9000,1620,10620,8.2,Very good ,1369,2.6
+124,6,"The Hosteller Bangalore, Koramangala",Bangalore,2692,325,3017,8.7,Fabulous ,79,4.7
+125,7,Hyatt Centric MG Road Bangalore,Bangalore,6075,729,6804,7.9,Good ,1194,2.2
+126,8,Collection O Hotel Blueberry Near 7D Voyage,Bangalore,1160,173,1333,8.0,Very good ,185,11.7
+127,9,Yello! ITPL,Bangalore,1347,162,1509,8.0,Very good ,3,14.2
+128,10,The Leela Bhartiya City Bengaluru,Bangalore,11000,1980,12980,9.1,Superb ,391,12.7
+129,11,Radisson Blu Atria Bengaluru,Bangalore,6250,750,7000,8.1,Very good ,1542,1.7
+130,12,The Oberoi Bengaluru,Bangalore,12000,2160,14160,9.3,Superb ,2072,1.8
+131,13,Vivanta Bengaluru Residency Road,Bangalore,7500,900,8400,8.0,Very good ,937,0.8
+132,14,Olive Electronic City - by Embassy Group,Bangalore,2514,302,2816,9.2,Superb ,203,16.2
+133,15,Radisson Bengaluru City Center,Bangalore,8000,1440,9440,8.4,Very good ,1141,1.9
+134,16,Narthaki Boutique Hotel,Bangalore,2030,244,2274,8.1,Very good ,111,2.7
+135,17,The Curzon Court,Bangalore,2200,330,2530,7.4,Good ,127,0.7
+136,18,Radisson Blu Bengaluru Outer Ring Road,Bangalore,9000,1620,10620,7.9,Good ,977,10.9
+137,19,Bloom Hotel - Brookefield,Bangalore,3015,362,3377,8.7,Fabulous ,150,12.0
+138,20,Tulip Inn Koramangala,Bangalore,3150,378,3528,7.7,Good ,245,5.2
+139,21,Casa Cottage,Bangalore,4550,546,5096,8.1,Very good ,314,1.4
+140,22,FabHotel Phoenix Resorts,Bangalore,2273,273,2546,7.3,Good ,368,0.6
+141,23,Olive HAL 2nd Stage - by Embassy Group,Bangalore,2763,332,3095,8.6,Fabulous ,154,5.3
+142,24,Renaissance Bengaluru Race Course Hotel,Bangalore,9000,1620,10620,8.6,Fabulous ,336,2.9
+143,25,Olive Kalyan Nagar - By Embassy Group,Bangalore,2262,271,2533,7.2,Good ,264,6.3
+144,26,Taj Yeshwantpur Bengaluru,Bangalore,7000,840,7840,8.7,Fabulous ,916,8.9
+145,27,"Welcomhotel by ITC Hotels, Richmond Road, Bengaluru",Bangalore,8500,1530,10030,8.2,Very good ,2087,1.6
+146,28,Hotel Sigma Suites,Bangalore,1350,162,1512,7.7,Good ,172,2.8
+147,29,"ITC Gardenia, a Luxury Collection Hotel, Bengaluru",Bangalore,11700,2106,13806,8.5,Very good ,1325,1.2
+148,30,Nalapad's Hotel Bangalore International - Managed by Olive,Bangalore,2500,300,2800,6.7,Good ,66,2.6
+149,31,Collection O The Mass Residency By D2v,Bangalore,914,144,1058,4.5,Good ,13,5.9
+150,32,Melange Luxury Serviced Apartments,Bangalore,5400,648,6048,8.1,Very good ,212,0.9
+151,33,OYO Flagship Varcity Pearl Near Nexus Mall Koramangala,Bangalore,1010,155,1165,8.3,Very good ,163,5.4
+152,34,Grand Mercure Bengaluru at Gopalan Mall - An Accor Brand,Bangalore,6999,840,7839,8.5,Very good ,950,6.6
+153,35,FabHotel Corporate Crown Koramangala,Bangalore,1819,218,2037,8.9,Fabulous ,858,4.9
+154,36,"Treebo Trend Blu Orchid - 4 Km Away From Chinnaswamy Stadium, Bangalore",Bangalore,2394,287,2681,7.8,Good ,568,4.0
+155,37,Ramada Encore Domlur Bangalore,Bangalore,4000,480,4480,8.1,Very good ,508,4.9
+156,38,Olive Rest House Road by Embassy Group,Bangalore,2357,283,2640,6.9,Good ,460,0.6
+157,39,ABM Express Inn,Bangalore,1655,199,1854,7.2,Good ,223,2.8
+158,40,Olive Indiranagar - By Embassy Group,Bangalore,2685,322,3007,7.7,Good ,1179,4.8
+159,41,Taj MG Road Bengaluru,Bangalore,11000,1980,12980,8.7,Fabulous ,826,2.0
+160,42,FabHotel The BTM Palace,Bangalore,1933,232,2165,8.8,Fabulous ,481,6.7
+161,43,FabHotel GRK Comforts,Bangalore,1521,183,1704,8.3,Very good ,847,6.4
+162,44,Royal Ace Boutique Hotel - Manyata Techpark,Bangalore,3060,367,3427,8.2,Very good ,112,7.4
+163,45,Oakwood Residence Whitefield Bangalore,Bangalore,7000,840,7840,8.5,Very good ,256,16.0
+164,46,Hotel Royal Orchid Bangalore,Bangalore,5501,660,6161,7.0,Good ,919,5.0
+165,47,OYO PALMS INN ROOMS,Bangalore,371,79,450,7.8,Good ,164,6.9
+166,48,ibis Bengaluru Hebbal - An Accor Brand,Bangalore,4700,564,5264,7.5,Good ,394,7.3
+167,49,Melange Astris,Bangalore,4900,588,5488,7.2,Good ,286,1.4
+168,50,"Fortune Select JP Cosmos, Bengaluru - Member ITC's hotel group",Bangalore,6599,792,7391,8.4,Very good ,534,1.6
+169,51,Courtyard by Marriott Bengaluru Hebbal,Bangalore,9750,1755,11505,8.5,Very good ,82,7.4
+170,52,Elysian Grand Hotel,Bangalore,2090,251,2341,8.1,Very good ,87,7.6
+171,53,Super OYO Collection O Hotel Palm Tree,Bangalore,1738,260,1998,7.5,Good ,420,3.0
+172,54,FabHotel The Royal Suites,Bangalore,1818,218,2036,5.7,Good ,37,6.6
+173,55,Citadel Sarovar Portico Bengaluru,Bangalore,3034,364,3398,6.3,Good ,95,2.9
+174,56,OYO Flagship Blooms Residency Near Baiyappanahalli Metro Station,Bangalore,1257,193,1450,7.8,Good ,1216,7.0
+175,57,The Park Bangalore,Bangalore,5440,653,6093,7.5,Good ,302,1.9
+176,58,Goldfinch Hotel Bangalore,Bangalore,5249,630,5879,7.6,Good ,276,2.6
+177,59,Daffodil Delight,Bangalore,1844,221,2065,7.7,Good ,43,7.2
+178,60,Super OYO Collection O Petals Otium Business Hotel,Bangalore,1018,156,1174,8.9,Fabulous ,967,10.7
+179,61,FabHotel Crown Heights,Bangalore,2273,273,2546,8.1,Very good ,327,5.0
+180,62,Treebo Trend Raj Elegance Nagavara,Bangalore,2105,253,2358,6.0,Good ,362,7.4
+181,63,"Royal Orchid Central Bangalore, Manipal Centre, MG Road",Bangalore,4250,510,4760,8.6,Fabulous ,838,1.5
+182,64,FabHotel Crown Suites,Bangalore,1705,205,1910,9.3,Superb ,72,5.0
+183,65,Super OYO Townhouse OAK Spruce Hotels A2 Indiranagar,Bangalore,1800,217,2017,7.0,Good ,294,4.3
+184,66,"Treebo Trend Apple Villa - 2 Km Away From Chinnaswamy Stadium, Bangalore",Bangalore,2298,276,2574,7.3,Good ,1887,2.3
+185,67,ibis Bengaluru City Centre - An Accor Brand,Bangalore,3999,480,4479,8.2,Very good ,92,1.3
+186,68,Laika Boutique Stay,Bangalore,4400,528,4928,8.1,Very good ,35,1.7
+187,69,Modern Hotel,Bangalore,1320,158,1478,8.3,Very good ,125,3.2
+188,70,Terrace Gardens,Bangalore,4500,540,5040,9.0,Superb ,6,1.4
+189,71,Home Awaits 455,Bangalore,1650,198,1848,7.9,Good ,27,12.4
+190,72,Super OYO Collection O 73977 Malleswaram,Bangalore,1925,265,2190,9.7,Exceptional ,4,3.7
+191,73,Apart Hotel SRS,Bangalore,2240,269,2509,8.7,Fabulous ,1045,4.7
+192,74,Shangri-La Bengaluru,Bangalore,16500,2970,19470,7.4,Good ,321,2.3
+193,75,"Southern Star,Bangalore",Bangalore,5185,928,6113,7.9,Good ,148,4.4
+194,76,Tristar Serviced Apartments,Bangalore,3750,450,4200,7.4,Good ,12,28.2
+195,77,Krishna Homes,Bangalore,6800,816,7616,8.3,Very good ,1069,2.1
+196,78,Conrad Bengaluru,Bangalore,15000,2700,17700,8.9,Fabulous ,118,9.8
+197,79,Felix Inn - Manyata Tech Park,Bangalore,1650,198,1848,7.6,Good ,269,3.9
+198,80,X by Bloom l Indiranagar,Bangalore,3690,443,4133,5.8,Good ,39,5.5
+199,81,Hotel Monarch International Jayanagar,Bangalore,2249,270,2519,8.9,Fabulous ,300,4.9
+200,82,FabHotel The Leela Park,Bangalore,2030,244,2274,7.4,Good ,1297,2.6
+201,83,"Holiday Inn Bengaluru Racecourse, an IHG Hotel",Bangalore,6199,744,6943,8.0,Very good ,77,7.6
+202,84,X by Bloom I Hebbal Manyata Park,Bangalore,2160,259,2419,7.6,Good ,586,5.4
+203,85,Sterlings Mac Hotel,Bangalore,7820,1408,9228,7.6,Good ,64,6.2
+204,86,Olive Golflinks - by Embassy Group,Bangalore,1898,228,2126,5.3,Good ,37,5.5
+205,87,The Corporate Comforts,Bangalore,1650,198,1848,8.1,Very good ,306,4.4
+206,88,Bloom Hotel - Indiranagar,Bangalore,5000,600,5600,7.7,Good ,184,5.7
+207,89,Capital O Boulevard Elite Madiwala Near Ragigudda Sri Prasanna Anjanayeswamy Temple,Bangalore,1007,163,1170,6.6,Good ,93,3.4
+208,90,Atlaantic Inn,Bangalore,1445,173,1618,8.2,Very good ,445,5.9
+209,91,FabExpress Ivory Pearl,Bangalore,1249,150,1399,7.0,Good ,176,2.3
+210,92,"Treebo Trend Trinitywood - 3 Km Away From Chinnaswamy Stadium, Bangalore",Bangalore,1815,218,2033,9.0,Superb ,413,5.3
+211,93,FabHotel Greenwood Xpress,Bangalore,1750,210,1960,7.7,Good ,48,6.5
+212,94,Capital O VMK Paradise,Bangalore,922,145,1067,8.9,Fabulous ,1854,5.3
+213,95,The Leela Palace Bengaluru,Bangalore,17000,3060,20060,10.0,Exceptional ,3,10.1
+214,97,ZEKE HOTELS,Bangalore,1890,227,2117,8.5,Very good ,167,3.3
+215,98,Temple Tree Hotel,Bangalore,2880,346,3226,8.0,Very good ,712,19.6
+216,99,"Holiday Inn Express & Suites Bengaluru Old Madras Road, an IHG Hotel",Bangalore,4049,486,4535,8.7,Fabulous ,3,3.1
+217,100,Place with a cosy and homely feel,Bangalore,4200,504,4704,7.1,Good ,52,25.7
+218,101,Treebo Trend SK Suites,Bangalore,1690,203,1893,8.3,Very good ,318,0.9
+219,102,JW Marriott Hotel Bengaluru,Bangalore,15000,2700,17700,6.8,Good ,309,2.8
+220,103,Hotel Embassy,Bangalore,990,119,1109,8.4,Very good ,16,16.4
+221,104,ROYAL ACE LUXUR,Bangalore,2250,270,2520,6.9,Good ,67,2.8
+222,105,Sri Durgamba Lodge,Bangalore,830,100,930,7.8,Good ,122,3.9
+223,106,"Treebo Trend Raj Premier - 4 Km Away From Chinnaswamy Stadium, Bangalore",Bangalore,3511,421,3932,6.2,Good ,522,3.7
+224,107,BNGV Mystic Premier Hotel,Bangalore,3640,437,4077,7.6,Good ,103,1.4
+225,108,Utse Suites,Bangalore,2750,330,3080,7.9,Good ,292,6.2
+226,109,Olive BTM Layout - By Embassy Group,Bangalore,2944,353,3297,3.4,Good ,5,11.9
+227,110,2BHK Lux Home Manyata Airport Hennur Pool Gym BH02,Bangalore,3500,420,3920,7.0,Good ,444,2.5
+228,111,Hotel Apple Suites,Bangalore,1800,216,2016,8.3,Very good ,294,4.9
+229,112,FabHotel S Comfort Inn,Bangalore,1819,218,2037,7.9,Good ,53,13.3
+230,113,Super OYO Collection O Global Stay Near Kengeri Bus Terminal Metro Station,Bangalore,1301,216,1517,7.5,Good ,2,16.2
+231,114,TS Suites,Bangalore,1120,134,1254,7.0,Good ,84,2.7
+232,115,Hotel U.T.ELITE,Bangalore,1530,184,1714,6.9,Good ,486,4.7
+233,116,Fairfield by Marriott Bengaluru Rajajinagar,Bangalore,5650,678,6328,7.6,Good ,84,5.1
+234,117,Lazdana Hotel Bangalore,Bangalore,4589,551,5140,8.1,Very good ,130,9.1
+235,118,Super OYO Townhouse 258 Spruce Hotels Bellandur,Bangalore,1611,227,1838,8.2,Very good ,24,5.9
+236,119,Astra Hotels and Suites - Koramangala,Bangalore,1999,240,2239,8.6,Fabulous ,89,8.8
+237,120,Stayhome Suites,Bangalore,2330,280,2610,8.2,Very good ,530,5.9
+238,121,Grand Mercure Bangalore - An Accor Brand,Bangalore,9700,1746,11446,8.1,Very good ,118,3.8
+239,122,Olive Indiranagar Metro - by Embassy Group,Bangalore,3018,422,3440,10.0,Exceptional ,2,13.1
+240,123,Luxurious 3BHK in 23rd floor of Bhartiya City,Bangalore,5400,648,6048,8.4,Very good ,50,4.4
+241,0,Courtyard by Marriott Chennai,Chennai,6000,1080,10915,8.2,Very good ,1384,1.7
+242,1,"Radisson Blu Hotel GRT, Chennai International Airport",Chennai,9250,1665,6720,8.9,Fabulous ,422,7.2
+243,2,Taj Club House,Chennai,6000,720,762,7.9,Good ,1412,4.0
+244,3,Hotel Ambika Palace,Chennai,680,82,4536,7.8,Good ,53,2.0
+245,4,Citadines OMR Chennai,Chennai,4050,486,546,8.4,Very good ,2261,5.0
+246,5,OYO Flagship Grand Residency Near Kasi Talkies,Chennai,457,89,3413,5.1,Good ,22,1.3
+247,6,Ibis Chennai OMR - An Accor Brand,Chennai,3047,366,3856,7.8,Good ,2463,15.6
+248,7,Hotel Comfort Park - Opposite Sri Ramachandra Medical College Porur,Chennai,3443,413,9802,8.1,Very good ,254,4.7
+249,8,Park Hyatt Chennai,Chennai,8307,1495,3852,8.8,Fabulous ,954,15.1
+250,9,"Treebo Trend Elan - 4 Km Away From MA Chidambaram Stadium, Chennai",Chennai,3439,413,10029,7.0,Good ,384,10.2
+251,10,Hyatt Regency Chennai,Chennai,8499,1530,1034,7.5,Good ,1507,3.5
+252,11,OYO Flagship BKM Guest House,Chennai,893,141,3692,8.4,Very good ,979,1.7
+253,12,FabHotel Nestlay Rooms Airport,Chennai,3296,396,4590,8.2,Very good ,1423,1.6
+254,13,Novotel Chennai Sipcot,Chennai,4098,492,14750,8.4,Very good ,2463,0.6
+255,14,"ITC Grand Chola, a Luxury Collection Hotel, Chennai",Chennai,12500,2250,7609,8.1,Very good ,1828,6.4
+256,15,Novotel Chennai Chamiers Road,Chennai,6794,815,10915,8.7,Fabulous ,1317,23.3
+257,16,Trident Chennai,Chennai,9250,1665,7466,8.2,Very good ,2014,3.6
+258,17,Radisson Blu Hotel Chennai City Centre,Chennai,6666,800,5151,8.1,Very good ,1514,1.6
+259,18,Novotel Chennai OMR,Chennai,4599,552,672,6.3,Good ,127,7.3
+260,19,SIU Mansion,Chennai,600,72,454,1.6,Good ,13,3.8
+261,20,SPOT ON Ams Annex,Chennai,375,79,3584,8.7,Fabulous ,86,15.1
+262,21,Hotel Kamar Residences and Banquets,Chennai,3200,384,16886,8.7,Fabulous ,1818,5.1
+263,22,The Leela Palace Chennai,Chennai,14310,2576,2164,7.9,Good ,506,1.3
+264,23,FabHotel Earth,Chennai,1932,232,2418,8.3,Very good ,1098,5.3
+265,24,FabHotel Sri Krishna Residency Airport,Chennai,2159,259,2673,8.0,Very good ,1315,9.4
+266,25,FabHotel Golden Swan Chennai Airport Free Pickup & Drop,Chennai,2387,286,9971,8.4,Very good ,1257,5.1
+267,26,"Taj Connemara, Chennai",Chennai,8450,1521,6495,7.9,Good ,1092,3.9
+268,27,"Holiday Inn Chennai OMR IT Expressway, an IHG Hotel",Chennai,5799,696,4094,8.4,Very good ,464,7.2
+269,28,"Avenue 11 Boutique Residences, Poes Garden Chennai",Chennai,3655,439,11799,8.2,Very good ,321,12.6
+270,29,"Feathers- A Radha Hotel, Chennai",Chennai,9999,1800,2811,5.6,Good ,20,3.9
+271,30,FabHotel Prime Stalin Pleasant Park,Chennai,2510,301,2821,7.3,Good ,253,2.3
+272,31,Hotel Beebiz Guindy,Chennai,2519,302,907,6.1,Good ,19,7.0
+273,32,CENTRAL GATE,Chennai,810,97,2520,6.7,Good ,61,1.7
+274,33,GRAND ELEGANT,Chennai,2250,270,4819,7.7,Good ,150,2.1
+275,34,Hanu Reddy Residences Poes Garden,Chennai,4303,516,5950,7.7,Good ,723,2.9
+276,35,The Madras Grand,Chennai,5313,637,4731,7.1,Good ,37,6.1
+277,36,Layalee Grande Hotel Chennai,Chennai,4224,507,952,7.6,Good ,888,5.2
+278,37,Broad Lands,Chennai,850,102,4704,7.2,Good ,21,1.4
+279,38,Hotel TamilNadu - Mamallapuram,Chennai,4200,504,1300,8.5,Very good ,358,2.9
+280,39,SM MANSION near Harbour & High court,Chennai,1161,139,5599,7.8,Good ,150,6.1
+281,40,Pharos Hotels,Chennai,4999,600,3781,6.8,Good ,139,2.5
+282,41,Treebo Trend Fourth Avenue,Chennai,3376,405,2577,8.2,Very good ,489,6.1
+283,42,The Hydel Park - Business Class Hotel - Near Central Railway Station,Chennai,2301,276,3105,8.2,Very good ,5,2.5
+284,43,FabHotel Prime Vijay Park Madhavaram,Chennai,2772,333,2577,8.4,Very good ,187,2.1
+285,44,Greens Suite - Business Class Hotel - Opposite Ripon Building,Chennai,2301,276,2800,7.5,Good ,1610,2.9
+286,45,ibis Chennai Sipcot - An Accor Brand,Chennai,2500,300,2243,7.1,Good ,173,4.6
+287,46,Treebo Trend Eco Stay Nandanam,Chennai,2003,240,6887,7.8,Good ,658,3.4
+288,47,"The Raintree, Anna Salai",Chennai,5999,888,2446,7.4,Good ,206,5.0
+289,48,"UPAR Hotels Thoraipakkam, OMR",Chennai,2184,262,2546,7.8,Good ,891,1.1
+290,49,FabHotel Blossoms Service Apartment,Chennai,2273,273,3359,6.4,Good ,1244,11.1
+291,50,"Holiday Inn Express Chennai OMR Thoraipakkam, an IHG Hotel",Chennai,2999,360,3752,7.9,Good ,110,8.7
+292,51,Umino Beach Resort,Chennai,3350,402,7503,6.2,Good ,2090,3.0
+293,52,The Park Chennai,Chennai,6699,804,3926,8.5,Very good ,433,5.2
+294,53,"Essentia Premier Hotel, Chennai",Chennai,3505,421,3248,7.8,Good ,178,6.1
+295,54,SKM REGENCY,Chennai,2900,348,2610,7.4,Good ,249,2.5
+296,55,FabHotel Skyry,Chennai,2330,280,5196,6.1,Good ,944,11.4
+297,56,Clarion Hotel President,Chennai,4639,557,3043,7.8,Good ,475,6.1
+298,57,FabHotel Colors Apartment,Chennai,2203,840,7660,8.6,Fabulous ,382,2.5
+299,58,Taj Wellington Mews Chennai,Chennai,7000,660,5842,8.2,Very good ,1991,23.3
+300,59,Vivanta Chennai IT Expressway OMR,Chennai,5500,342,5082,5.5,Good ,63,1.6
+301,60,Grand Cascade Chennai,Chennai,2850,2232,12879,8.7,Fabulous ,999,1.4
+302,61,Taj Coromandel,Chennai,12400,479,4530,7.5,Good ,125,10.5
+303,62,La Woods Hotel,Chennai,3990,540,5256,7.2,Good ,1543,0.7
+304,63,ibis Chennai City Centre - An Accor Brand,Chennai,4500,756,6815,7.3,Good ,479,12.3
+305,64,Hablis Chennai,Chennai,6299,516,4900,7.2,Good ,64,18.5
+306,65,Beverly Hotel,Chennai,4300,600,5690,8.1,Very good ,876,2.3
+307,66,Turyaa Chennai - OMR IT Expressway,Chennai,5000,690,6194,7.4,Good ,151,10.0
+308,67,Boulevard by Design Hotel Chennai,Chennai,5750,444,3914,7.5,Good ,199,6.1
+309,68,Raaj Bhaavan Clarks Inn Chennai,Chennai,3700,214,1781,8.4,Very good ,31,2.4
+310,69,FabExpress Lloyds Inn I,Chennai,1515,266,2264,8.5,Very good ,1186,1.0
+311,70,Collection O Manimegalai Guest House,Chennai,1930,334,3097,7.7,Good ,156,4.1
+312,71,FabExpress B Zone,Chennai,2784,313,3508,7.0,Good ,886,1.0
+313,72,SUPREME STAY,Chennai,2608,900,7899,7.9,Good ,275,4.8
+314,73,Le Royal Meridien Chennai,Chennai,7499,400,3900,8.3,Very good ,155,1.2
+315,74,Treebo Trend Vapr Guindy Ekkatuthangal,Chennai,3330,570,4988,9.2,Superb ,222,5.7
+316,75,The Saibaba Hotel,Chennai,4750,238,2199,7.3,Good ,357,2.5
+317,76,Friendlystay - An Home Stay And Elite,Chennai,1980,219,2363,7.6,Good ,302,15.0
+318,77,Skb Hotel Grand Days - Fully Vaccinated Staff,Chennai,1823,540,4643,6.7,Good ,117,6.1
+319,78,The Kings Park Grand-Near US Consulate,Chennai,4499,144,1626,7.8,Good ,189,2.5
+320,79,"The Dolphin Park Hotel, Virugambakkam",Chennai,1199,427,4184,8.4,Very good ,174,2.5
+321,80,"Treebo Trend Pechis Castle - 5 Km Away From MA Chidambaram Stadium, Chennai",Chennai,3554,630,5451,7.2,Good ,119,4.1
+322,81,RATHNA RESIDENCY,Chennai,5250,201,1858,5.4,Good ,25,2.0
+323,82,FabExpress Lloyds Inn,Chennai,1672,186,3171,8.6,Fabulous ,1292,3.1
+324,83,FabExpress Arunachala Guest House,Chennai,1281,1890,11070,8.1,Very good ,919,2.8
+325,84,Grand Chennai by GRT Hotels,Chennai,9450,1620,9129,6.6,Good ,42,4.6
+326,85,Green Park Chennai,Chennai,9000,129,1370,6.5,Good ,136,4.3
+327,86,The Mount Regency,Chennai,1071,299,2779,6.9,Good ,145,7.7
+328,87,Hotel La Castle,Chennai,2490,289,2938,7.3,Good ,197,2.2
+329,88,Treebo Trend Rithikha Inn Crest Ashok Nagar,Chennai,2409,529,4827,8.2,Very good ,420,5.7
+330,89,Hotel Aadithya,Chennai,4409,418,3855,7.4,Good ,32,11.0
+331,90,Regenta Central RS Chennai OMR SIPCOT,Chennai,3485,370,3423,6.9,Good ,194,4.1
+332,91,"Treebo Trend Green City - 3 Km Away From MA Chidambaram Stadium, Chennai",Chennai,3082,341,3271,6.3,Good ,85,1.1
+333,92,Upar Hotels Cinecity Kodambakkam RAGHAVENDRA MANDAPAM,Chennai,2843,428,3808,9.0,Superb ,248,11.1
+334,93,Individual villa in Velachery,Chennai,3570,238,2096,8.1,Very good ,905,2.1
+335,94,Townhouse 211 Laguna Ecr Near Juhu Beach,Chennai,1700,396,5157,8.7,Fabulous ,202,5.3
+336,96,Hilton Chennai,Chennai,10320,204,2103,8.8,Fabulous ,138,3.7
+337,97,Stay Court - Business Class Hotel - Near Central Railway Station,Chennai,1700,403,3646,7.6,Good ,270,1.2
+338,98,Velachery Villa,Chennai,3360,286,2633,7.5,Good ,333,9.8
+339,99,RR Mount Elite Suites,Chennai,2385,248,2880,7.3,Good ,155,5.9
+340,100,Al Noor Palace Business Class Hotel,Chennai,2070,810,6905,7.6,Good ,57,2.7
+341,101,E Hotel,Chennai,6749,156,1750,7.9,Good ,811,2.1
+342,102,GULNAAR INN,Chennai,1300,450,4194,8.2,Very good ,1438,4.8
+343,103,Niketana @ Boat Club,Chennai,3750,444,3891,8.6,Fabulous ,173,3.0
+344,104,Fairfield by Marriott Chennai OMR,Chennai,3700,191,1870,7.3,Good ,17,1.9
+345,105,FabExpress P.A.S Residency,Chennai,1591,279,2357,6.2,Good ,109,1.4
+346,106,Sheraton Grande Hotel - Business Class Hotel - Near Central Railway Station,Chennai,2325,32,1929,7.3,Good ,24,4.7
+347,107,FabExpress Sai Enclave,Chennai,1755,174,1618,8.4,Very good ,89,1.2
+348,108,Hotel White Park,Chennai,1450,168,1598,7.1,Good ,41,3.0
+349,109,OYO Townhouse 1116 US consulate,Chennai,1188,410,3837,7.0,Good ,426,5.2
+350,110,Hotel Halez,Chennai,3420,417,3788,8.7,Fabulous ,1159,1.6
+351,111,Palette - Coastal Grand Hotels & Resorts,Chennai,3194,594,6014,7.8,Good ,62,4.6
+352,112,Hotel Park Elanza Chennai,Chennai,4949,1065,7560,5.4,Good ,287,2.3
+353,113,"The Raintree, St. Mary’s Road",Chennai,7199,361,1532,6.7,Good ,175,3.2
+354,114,The coloursinn Home stays,Chennai,1352,180,1846,7.1,Good ,174,22.5
+355,115,Olive Grand,Chennai,1500,346,3605,6.7,Good ,140,5.9
+356,116,Mount Manor,Chennai,2880,725,6260,8.1,Very good ,117,2.9
+357,117,JP Chennai Hotel,Chennai,6044,216,2400,7.1,Good ,280,1.6
+358,118,Green Tree Hotel,Chennai,1800,600,5504,5.2,Good ,79,7.4
+359,119,Hotel Ranjith,Chennai,5000,504,4273,5.8,Good ,10,21.9
+360,120,Park Plaza Chennai OMR,Chennai,4200,73,833,8.6,Fabulous ,27,3.0
+361,121,Aum Karthikeya Residency,Chennai,611,222,2106,7.9,Good ,429,24.6
+362,0,Hangout Dormitory For Male & Female Marol,Mumbai,824,99,923,7.3,Good ,9,4.6
+363,1,Country Inn By Turtle Hotel and Resort,Mumbai,4980,598,5578,6.9,Good ,43,7.2
+364,2,Country Inn & Suites By Turtle,Mumbai,5400,648,6048,7.7,Good ,145,2.0
+365,3,"ITC Grand Central, a Luxury Collection Hotel, Mumbai",Mumbai,11250,2025,13275,8.6,Fabulous ,1800,7.2
+366,4,Residency Sarovar Portico,Mumbai,5850,702,6552,7.0,Good ,508,2.0
+367,6,FabHotel Ascot International II,Mumbai,2614,314,2928,8.0,Very good ,47,11.5
+368,7,JW Marriott Mumbai Sahar Airport,Mumbai,14500,2610,17110,8.6,Fabulous ,2564,2.6
+369,8,Hotel Ariana Residency,Mumbai,5406,649,6055,6.9,Good ,377,2.9
+370,9,Country Inn by UMRB,Mumbai,4590,551,5141,6.6,Good ,7,3.0
+371,10,Hotel Icon International Airport Mumbai,Mumbai,2268,272,2540,6.3,Good ,20,7.4
+372,11,Four Seasons Hotel Mumbai,Mumbai,20000,3600,23600,8.5,Very good ,2200,1.5
+373,12,"Holiday Inn Mumbai International Airport, an IHG Hotel",Mumbai,10249,1845,12094,7.9,Good ,1675,7.2
+374,13,FabHotel RK International,Mumbai,4207,505,4712,7.4,Good ,662,2.0
+375,14,Arts International,Mumbai,2840,341,3181,8.1,Very good ,141,3.1
+376,15,"Treebo Trend Prince, Mumbai",Mumbai,2982,358,3340,5.8,Good ,90,10.9
+377,16,FabExpress Highway Residency,Mumbai,2090,251,2341,6.4,Good ,69,3.2
+378,17,Taj Santacruz,Mumbai,15500,2790,18290,8.8,Fabulous ,3494,1.3
+379,18,"The Ambassador, Marine Drive, Mumbai",Mumbai,8399,1512,9911,7.7,Good ,299,4.5
+380,19,Trident Nariman Point,Mumbai,15750,2835,18585,8.7,Fabulous ,4077,1.0
+381,20,Aster Hotel Near Mumbai Airport,Mumbai,2186,262,2448,7.9,Good ,176,3.4
+382,21,Hotel Golden Park NESCO-Exhibitions Centre,Mumbai,2249,270,2519,5.8,Good ,108,3.7
+383,22,T24 Retro,Mumbai,4099,492,4591,7.5,Good ,173,3.1
+384,23,Hotel A Suites,Mumbai,2599,312,2911,6.9,Good ,159,2.8
+385,24,Hotel Malad Inn opposite Malad Railway Station,Mumbai,3526,423,3949,7.5,Good ,91,16.8
+386,25,"Treebo Trend Freedom Star, Vile Parle",Mumbai,3598,432,4030,6.7,Good ,122,2.4
+387,26,JW Marriott Mumbai Juhu,Mumbai,18000,3240,21240,8.4,Very good ,1696,17.6
+388,27,FabHotel Arc Palace,Mumbai,2357,336,2693,7.5,Good ,17,2.8
+389,28,Hotel Bawa International,Mumbai,6750,810,7560,7.2,Good ,1081,3.2
+390,29,Regent Hotel Andheri,Mumbai,5333,640,5973,7.6,Good ,127,7.9
+391,30,Arnna Hotel- Goregaon East,Mumbai,4990,599,5589,7.9,Good ,216,3.4
+392,31,"One Bedroom Apartment by Kind Home Regent Hills, Mumbai Powai",Mumbai,6999,840,7839,9.0,Superb ,3,2.9
+393,32,Home2 Renaissance Club,Mumbai,3960,475,4435,7.5,Good ,17,2.8
+394,33,The Cattleya,Mumbai,2700,324,3024,6.9,Good ,50,12.5
+395,34,"ITC Maratha, a Luxury Collection Hotel, Mumbai",Mumbai,13300,2394,15694,8.2,Very good ,3196,4.1
+396,35,FabExpress Alive,Mumbai,3237,388,3625,7.0,Good ,25,2.0
+397,36,The Leela Mumbai,Mumbai,15000,2700,17700,8.6,Fabulous ,3140,6.1
+398,37,Hotel Tavakkal Bandra Kurla Mumbai,Mumbai,1875,225,2100,7.8,Good ,350,27.3
+399,38,Hotel Linkway,Mumbai,3000,360,3360,8.3,Very good ,160,3.4
+400,39,Royal Hometel Suites,Mumbai,4500,540,5040,7.6,Good ,707,2.8
+401,40,Trident Bandra Kurla,Mumbai,20750,3735,24485,8.8,Fabulous ,3669,4.3
+402,41,FabHotel Liwa International,Mumbai,3240,389,3629,7.5,Good ,148,9.1
+403,42,"Hotel Mumbai House Andheri East, Mumbai",Mumbai,4300,516,4816,7.1,Good ,49,5.9
+404,43,Hotel Bawa Regency,Mumbai,6350,762,7112,7.7,Good ,464,7.9
+405,44,"Home2 Suites and Service Apartments, Mumbai Airport",Mumbai,4000,480,4480,7.9,Good ,402,3.9
+406,45,The Westin Mumbai Garden City,Mumbai,12000,2160,14160,8.6,Fabulous ,1072,3.2
+407,46,Hilton Mumbai International Airport Hotel,Mumbai,9500,1710,11210,7.8,Good ,1870,6.0
+408,47,FabExpress Colaba Grand,Mumbai,3063,368,3431,6.7,Good ,212,1.8
+409,48,President - IHCL SeleQtions,Mumbai,12000,2160,14160,8.2,Very good ,1676,3.7
+410,49,Grand Hyatt Mumbai Hotel and Residences,Mumbai,18000,3240,21240,8.2,Very good ,2008,1.1
+411,50,Hotel Auris,Mumbai,8399,1512,9911,7.8,Good ,79,4.6
+412,51,The St. Regis Mumbai,Mumbai,17500,3150,20650,8.7,Fabulous ,1582,1.4
+413,52,Treebo Trend Laaiba Residency,Mumbai,5872,705,6577,7.4,Good ,76,20.8
+414,53,Hotel BKC NX,Mumbai,2700,324,3024,9.8,Exceptional ,37,1.5
+415,54,Novotel Mumbai International Airport,Mumbai,13199,2376,15575,8.5,Very good ,518,6.0
+416,55,"Taj The Trees, Mumbai",Mumbai,14300,2574,16874,7.9,Good ,18,4.3
+417,56,OYO Hotel Blue Sea Near Chhatrapati Shivaji International Airport,Mumbai,950,148,1098,2.7,Good ,66,7.8
+418,57,MAXX VALUE - HOTEL KOHINOOR CONTINENTAL,Mumbai,8999,1620,10619,7.0,Good ,52,2.6
+419,58,FabHotel Amour Andheri East,Mumbai,2679,321,3000,7.6,Good ,646,3.0
+420,59,"The Taj Mahal Tower, Mumbai",Mumbai,17000,3060,20060,9.0,Superb ,4910,10.8
+421,60,FabExpress Marol Metro Andheri East,Mumbai,2665,320,2985,6.7,Good ,417,3.2
+422,61,Hotel Karl Residency,Mumbai,5000,600,5600,7.0,Good ,49,18.4
+423,62,"Apex Beacon Hotel, Mumbai",Mumbai,4728,567,5295,7.1,Good ,68,19.0
+424,63,"Sai Palace Grand, Malad",Mumbai,4800,576,5376,7.5,Good ,108,2.8
+425,64,Empire Hotel - Grant Road,Mumbai,4382,526,4908,8.1,Very good ,311,2.8
+426,65,FabExpress Adore Inn,Mumbai,2840,341,3181,7.2,Good ,467,5.8
+427,66,Bindra Elite,Mumbai,2047,246,2293,6.4,Good ,13,10.7
+428,67,Dream Palace Residency,Mumbai,2610,313,2923,6.9,Good ,31,7.4
+429,68,Fairfield by Marriott Mumbai International Airport,Mumbai,13499,2430,15929,8.1,Very good ,836,0.5
+430,69,Taj Lands End,Mumbai,19250,3465,22715,8.6,Fabulous ,3878,3.8
+431,70,FabHotel Gorrion International,Mumbai,2151,258,2409,6.6,Good ,89,4.9
+432,71,Hotel A K Fort Inn,Mumbai,4050,486,4536,7.0,Good ,22,2.9
+433,72,Chateau Windsor Hotel - Marine Drive,Mumbai,7056,847,7903,7.7,Good ,492,4.3
+434,74,Nap Manor Hostels,Mumbai,3329,400,3729,9.0,Superb ,856,17.8
+435,75,"The Taj Mahal Palace, Mumbai",Mumbai,24000,4320,28320,9.1,Superb ,1534,3.4
+436,76,Treebo Trend Seven Olives,Mumbai,3107,373,3480,6.5,Good ,51,5.3
+437,77,AVIRAHI HOTEL,Mumbai,2500,300,2800,6.7,Good ,44,2.2
+438,78,Hotel Emerald Near International Airport Mumbai,Mumbai,2065,248,2313,6.5,Good ,13,3.7
+439,79,ZARA GRAND HOTEL,Mumbai,3000,360,3360,7.0,Good ,161,13.9
+440,80,Residency Hotel Andheri,Mumbai,6389,767,7156,7.4,Good ,327,14.2
+441,81,Astoria Hotel,Mumbai,11000,1980,12980,8.2,Very good ,68,3.1
+442,82,Maxxvalue Apartment Hiranandani Powai - RH5,Mumbai,8549,1539,10088,8.5,Very good ,33,5.6
+443,83,FabHotel Bhiwandi Palace,Mumbai,2046,316,2362,7.6,Good ,27,2.6
+444,84,"Hotel Park View, Mumbai",Mumbai,5399,648,6047,7.3,Good ,48,7.1
+445,85,Hotel Naaz Executive,Mumbai,5499,660,6159,9.2,Superb ,47,1.9
+446,86,Sea Green Hotel,Mumbai,9444,1700,11144,7.1,Good ,471,4.9
+447,87,Apex Hotel,Mumbai,1979,238,2217,4.8,Good ,88,16.0
+448,88,Hotel Marine Plaza,Mumbai,14849,2673,17522,7.5,Good ,436,16.8
+449,89,"Marriott Executive Apartment - Lakeside Chalet, Mumbai",Mumbai,17000,3060,20060,7.9,Good ,346,2.4
+450,90,FabExpress We Stay,Mumbai,2148,258,2406,6.8,Good ,26,10.1
+451,91,FabHotel Empire Suite,Mumbai,2955,355,3310,6.7,Good ,102,3.3
+452,92,Radisson Mumbai Andheri MIDC,Mumbai,10500,2415,12915,8.1,Very good ,1377,2.3
+453,93,FabHotel Spring Inn Kandivali,Mumbai,3127,375,3502,7.7,Good ,346,17.8
+454,94,Courtyard by Marriott Mumbai International Airport,Mumbai,14000,2520,16520,8.1,Very good ,1403,4.2
+455,95,Hotel Avion Palace New,Mumbai,2079,250,2329,7.7,Good ,38,14.4
+456,96,Peace International,Mumbai,4050,486,4536,7.6,Good ,99,3.1
+457,97,FabHotel Zaika Orchid Apartment,Mumbai,2046,246,2292,7.3,Good ,15,2.3
+458,98,Country Inn & Suites By UMRB,Mumbai,5400,648,6048,7.7,Good ,446,5.2
+459,99,Krishna Palace Hotel,Mumbai,7450,894,8344,6.8,Good ,2315,16.9
+460,100,Novotel Mumbai Juhu Beach,Mumbai,11000,1980,12980,7.9,Good ,52,2.6
+461,101,Treebo Tryst Savera Inn,Mumbai,7062,847,7909,9.3,Superb ,1647,6.0
+462,102,The Oberoi Mumbai,Mumbai,22000,3960,25960,7.9,Good ,907,32.4
+463,103,Hotel Bawa Continental,Mumbai,6750,810,7560,8.1,Very good ,410,5.4
+464,104,Theory9 Premium Service Apartments Bandra,Mumbai,10997,1979,12976,6.5,Good ,69,2.3
+465,105,"Treebo Trend Amber Palace - 3 Km Away From Wankhede Stadium, Mumbai",Mumbai,4028,483,4511,7.0,Good ,108,1.9
+466,106,Rama Krishna Hotel,Mumbai,4000,480,4480,5.8,Good ,704,16.9
+467,107,Hotel Leafio-Near Airport,Mumbai,2699,324,3023,6.5,Good ,1395,2.4
+468,108,ibis Mumbai Airport - An Accor Brand,Mumbai,6999,840,7839,6.8,Good ,465,2.7
+469,109,Backpackers Villa Mumbai,Mumbai,2214,266,2480,3.9,Good ,214,17.0
+470,110,Hotel Happyland,Mumbai,2610,313,2923,8.1,Very good ,1150,2.5
+471,111,The Westin Mumbai Powai Lake,Mumbai,12000,2160,14160,7.8,Good ,67,6.7
+472,112,Treebo Trend Atithi Inn,Mumbai,4272,513,4785,5.8,Good ,233,4.2
+473,113,Ginger Mumbai Andheri (MIDC),Mumbai,3999,480,4479,7.7,Good ,590,3.6
+474,114,FabHotel Axis International,Mumbai,3978,477,4455,4.7,Good ,117,4.8
+475,115,Hotel Milan International,Mumbai,1787,214,2001,3.6,Good ,86,14.2
+476,116,"Hotel BKC Inn Near Trade Center, Visa Consulate",Mumbai,2940,353,3293,6.0,Good ,31,4.4
+477,117,RELAX GUEST HOUSE,Mumbai,1680,202,1882,8.0,Very good ,344,7.5
+478,118,Elphinstone Hotel,Mumbai,4556,547,5103,6.6,Good ,129,3.8
+479,119,"Treebo Trend Prime Grand, Andheri",Mumbai,2566,308,2874,6.5,Good ,90,24.5
+480,120,Hotel Olten,Mumbai,3200,384,3584,6.9,Good ,348,7.4
+481,121,T24 Residency,Mumbai,6999,840,7839,7.1,Good ,350,1.9
+482,122,Hotel Embassy Park - BKC Mumbai,Mumbai,3400,408,3808,7.3,Good ,297,14.3
+483,123,Hostel Vasantashram CST Mumbai,Mumbai,2088,251,2339,3.0,Good ,8,6.7
