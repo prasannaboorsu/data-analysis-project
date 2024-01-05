@@ -1,1 +1,1 @@
-# data-analysis-project
+# EDA on hotel accomodations
